@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>AtmosCheck</title>
-    <link>https://github.com/machaelll/atmoscheck-releases/releases/download</link>
+    <link>https://github.com/machaelstudio/atmoscheck-releases/releases/download</link>
+    <item>
+      <title>AtmosCheck 0.5</title>
+      <pubDate>Fri, 02 Oct 2026 03:55:59 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>AtmosCheck 0.5</h2><ul><li>Play any analyzed master from its detail view and switch what you hear while it plays: the stereo fold, the mono sum, the 5.1 re-render (on an output device with six channels), and the stereo master, time-aligned for A/B. Space plays and pauses; ⌘1–⌘4 switch.</li><li>A/B with the stereo master is loudness-matched by default, so the louder one does not win; the applied trim is shown.</li><li>Solo and mute any bed channel or object from the Channels tab to find the track behind a problem in the fold.</li><li>Meters for the outputs and a left/right phase correlation reading; it turns orange or red when the fold will lose level in mono.</li><li>Jump to the loudest passage or to the true peak from the player&#x27;s menu.</li><li>The player has its own output device choice and never changes a device&#x27;s sample rate or buffer size. The device is released whenever playback is paused.</li><li>The folds are AtmosCheck&#x27;s own render, not Dolby&#x27;s: good for hearing balance and phase problems, not a replacement for the Dolby Atmos Renderer or for a binaural check.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelstudio/atmoscheck-releases/releases/download/v0.5/AtmosCheck-0.5.dmg" sparkle:edSignature="IUP/oRycJQxYQcJomRoDfgNfxetsaKkKqWkk6wjlEPlikQ0mzN/FEpnDtlo1MVrKkfmMLNtkWp99dw06y7U5CQ==" length="3720661" type="application/octet-stream"/>
+    </item>
     <item>
       <title>AtmosCheck 0.4</title>
       <pubDate>Thu, 10 Sep 2026 21:13:52 +0000</pubDate>
